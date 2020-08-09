@@ -4,5 +4,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/alexjeffburke/tellerium-deprecation.git"
-  }
+  },
+  "version": "0.4.1"
 }
